@@ -1,0 +1,1 @@
+In order for this software to work, the "pygame" library must be installed on your computer.
